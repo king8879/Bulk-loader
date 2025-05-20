@@ -13,19 +13,19 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "7463809159:AAG0WIc0l8BvwMKas4TrHfQCuMc43DMMFuo"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "22923037"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "dfb3666878b3851460a58461c5a50f5b"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID. (optional)",
-      "value": "",
+      "value": "6554343173",
       "required": false
     },
     "AS_ZIP": {
